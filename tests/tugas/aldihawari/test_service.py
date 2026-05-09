@@ -1,5 +1,5 @@
 import unittest
-from service import luas
+from src.tugas.aldihawari.service import luas
 
 class TestServices(unittest.TestCase):
     def test_luas_positif(self):
